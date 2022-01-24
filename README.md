@@ -1,3 +1,10 @@
-# CSS - Cognitive science study group
-## 认知科学学习小组
+## CSS - Cognitive science study group
+  
+### Next topic 
+
+
+### Next candidate topic  
+
+### Past topic (2021) 
+
 
