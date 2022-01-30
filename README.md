@@ -1,8 +1,8 @@
-## CSS - Cognitive science study group
+## CSS - Cognitive science study group 认知科学学习小组
   
 ### Next topic 
 
-2022/01/30 à 19h 第四期：从几何的角度理解人工神经网络模型如何表征和处理信息
+2022/01/30 à 19h (Paris, GMT+1) 第四期：从几何的角度理解人工神经网络模型如何表征和处理信息
 
 ### Past topic (2022) 
 2022/01/16 第三期：心理表征：图像还是语言逻辑？  
